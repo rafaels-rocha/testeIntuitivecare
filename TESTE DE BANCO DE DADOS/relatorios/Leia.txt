@@ -1,0 +1,1 @@
+Para conseguir enviar via email o arquivo eu compactei os arquivos, mas para rodar por favor extraia os arquivos
